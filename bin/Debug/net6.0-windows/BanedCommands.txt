@@ -1,0 +1,2 @@
+ROOT=/stop,taskkill,svchost
+USR=/stop,/makeScreenShot,/msctrl,asudo,taskkill,svchost

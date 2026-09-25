@@ -1,0 +1,6 @@
+permissionCode=ADMIN
+userName=ARST Software Electronics
+password=stas
+login=stas
+initialTargetDirectory=C:\Windows
+autoScreenEnabled=True
