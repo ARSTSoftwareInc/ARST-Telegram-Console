@@ -10,7 +10,7 @@ namespace atcmdHost
 {
     public partial class Form1 : Form
     {
-        string token = "7657615181:AAGtL8Yyn93qGv5wSDMwsFWOZzfLyhGtEmM";
+        string token = "";
 
         public Form1()
         {
@@ -60,12 +60,12 @@ namespace atcmdHost
             {
                 this.Opacity = 100;
                 this.Size = new Size(444, 69);
-                label1.Text = "NO CRITIC: Нет соединения!";
+                label1.Text = "NO CRITIC: ГЌГҐГІ Г±Г®ГҐГ¤ГЁГ­ГҐГ­ГЁГї!";
             }
             else
             {
                 this.Size = new Size(444, 168);
-                label1.Text = "Инициализация хоста ARSTTelegramConsole завершена!";
+                label1.Text = "Г€Г­ГЁГ¶ГЁГ Г«ГЁГ§Г Г¶ГЁГї ГµГ®Г±ГІГ  ARSTTelegramConsole Г§Г ГўГҐГ°ГёГҐГ­Г !";
                 
                 if(!MainSystem.initialized) preinit();
             }
