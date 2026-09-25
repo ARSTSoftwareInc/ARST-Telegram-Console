@@ -1,1 +1,0 @@
-remoteMouseSymbolProgram=D:\VISUAL STUDIO\проекты\DesktopSolver\bin\Debug\DesktopSolver.exe

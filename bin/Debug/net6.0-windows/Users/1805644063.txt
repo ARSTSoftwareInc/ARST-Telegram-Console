@@ -1,5 +1,0 @@
-permissionCode=ROOT
-userName=Kriping
-password=
-login=
-initialTargetDirectory=D:\
